@@ -1,0 +1,227 @@
+{
+    "0, 0": [
+        {
+            "dead": 11,
+            "alive": 9989,
+            "susceptible": 9835,
+            "infected": 0,
+            "recovered": 154
+        }
+    ],
+    "0, 1": [
+        {
+            "dead": 208,
+            "alive": 9792,
+            "susceptible": 5568,
+            "infected": 0,
+            "recovered": 4224
+        }
+    ],
+    "0, 2": [
+        {
+            "dead": 507,
+            "alive": 9493,
+            "susceptible": 3424,
+            "infected": 0,
+            "recovered": 6069
+        }
+    ],
+    "0, 3": [
+        {
+            "dead": 766,
+            "alive": 9234,
+            "susceptible": 2649,
+            "infected": 0,
+            "recovered": 6585
+        }
+    ],
+    "0, 4": [
+        {
+            "dead": 824,
+            "alive": 9176,
+            "susceptible": 2406,
+            "infected": 0,
+            "recovered": 6770
+        }
+    ],
+    "1, 0": [
+        {
+            "dead": 11,
+            "alive": 9989,
+            "susceptible": 9718,
+            "infected": 0,
+            "recovered": 271
+        }
+    ],
+    "1, 1": [
+        {
+            "dead": 217,
+            "alive": 9783,
+            "susceptible": 4956,
+            "infected": 8,
+            "recovered": 4819
+        }
+    ],
+    "1, 2": [
+        {
+            "dead": 626,
+            "alive": 9374,
+            "susceptible": 3253,
+            "infected": 0,
+            "recovered": 6121
+        }
+    ],
+    "1, 3": [
+        {
+            "dead": 779,
+            "alive": 9221,
+            "susceptible": 2460,
+            "infected": 0,
+            "recovered": 6761
+        }
+    ],
+    "1, 4": [
+        {
+            "dead": 925,
+            "alive": 9075,
+            "susceptible": 2236,
+            "infected": 0,
+            "recovered": 6839
+        }
+    ],
+    "2, 0": [
+        {
+            "dead": 20,
+            "alive": 9980,
+            "susceptible": 9650,
+            "infected": 0,
+            "recovered": 330
+        }
+    ],
+    "2, 1": [
+        {
+            "dead": 237,
+            "alive": 9763,
+            "susceptible": 4580,
+            "infected": 0,
+            "recovered": 5183
+        }
+    ],
+    "2, 2": [
+        {
+            "dead": 671,
+            "alive": 9329,
+            "susceptible": 3049,
+            "infected": 0,
+            "recovered": 6280
+        }
+    ],
+    "2, 3": [
+        {
+            "dead": 852,
+            "alive": 9148,
+            "susceptible": 2298,
+            "infected": 0,
+            "recovered": 6850
+        }
+    ],
+    "2, 4": [
+        {
+            "dead": 947,
+            "alive": 9053,
+            "susceptible": 2051,
+            "infected": 0,
+            "recovered": 7002
+        }
+    ],
+    "3, 0": [
+        {
+            "dead": 44,
+            "alive": 9956,
+            "susceptible": 8782,
+            "infected": 0,
+            "recovered": 1174
+        }
+    ],
+    "3, 1": [
+        {
+            "dead": 404,
+            "alive": 9596,
+            "susceptible": 3928,
+            "infected": 0,
+            "recovered": 5668
+        }
+    ],
+    "3, 2": [
+        {
+            "dead": 798,
+            "alive": 9202,
+            "susceptible": 2600,
+            "infected": 0,
+            "recovered": 6602
+        }
+    ],
+    "3, 3": [
+        {
+            "dead": 924,
+            "alive": 9076,
+            "susceptible": 2094,
+            "infected": 0,
+            "recovered": 6982
+        }
+    ],
+    "3, 4": [
+        {
+            "dead": 996,
+            "alive": 9004,
+            "susceptible": 2012,
+            "infected": 0,
+            "recovered": 6992
+        }
+    ],
+    "4, 0": [
+        {
+            "dead": 137,
+            "alive": 9863,
+            "susceptible": 6566,
+            "infected": 0,
+            "recovered": 3297
+        }
+    ],
+    "4, 1": [
+        {
+            "dead": 730,
+            "alive": 9270,
+            "susceptible": 3132,
+            "infected": 0,
+            "recovered": 6138
+        }
+    ],
+    "4, 2": [
+        {
+            "dead": 895,
+            "alive": 9105,
+            "susceptible": 2160,
+            "infected": 0,
+            "recovered": 6945
+        }
+    ],
+    "4, 3": [
+        {
+            "dead": 939,
+            "alive": 9061,
+            "susceptible": 1963,
+            "infected": 0,
+            "recovered": 7098
+        }
+    ],
+    "4, 4": [
+        {
+            "dead": 1021,
+            "alive": 8979,
+            "susceptible": 1804,
+            "infected": 0,
+            "recovered": 7175
+        }
+    ]
+}
